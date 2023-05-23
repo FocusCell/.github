@@ -10,23 +10,25 @@
 ## NK
 - Not provided.
 # Team Thunder
-## R
+## raza201
 - Not provided.
 ## D
 -  Had a meeting with teammates.
 - Discuss smart commit
 - Discuss note taking on GitHub.
-## Z
+## Zarafsha26
 - Learn smart commit
 - learn GitHub techniques
 - Work on issue #3. 
-## T
+## TubaShamoon
 Worked on issue #11.
+## shumailatahir29
+- Not provided
 # Team Sahara
 ## S
 - Not provided.
 # Team Hurricane
-## A
+## Aleem-Reveltek
 - Not provided
 ## AG
 - Worked on cover letter
@@ -42,4 +44,7 @@ Worked on issue #11.
 ## R
 - Not provided
 ## F
+- Not provided
+# Team Magnum
+## jawadkhanpk
 - Not provided
