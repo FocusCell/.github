@@ -12,7 +12,7 @@
 # Team Thunder
 ## raza201
 - Not provided.
-## D
+## Dua-Reveltek
 -  Had a meeting with teammates.
 - Discuss smart commit
 - Discuss note taking on GitHub.
