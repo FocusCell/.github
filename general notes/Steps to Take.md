@@ -23,3 +23,5 @@ If they aren't management material, and just be a contributor then they should b
  - Motivate their Teammates
 
 N, D, S, R- all 4 need to help have a company where leads actually lead
+
+Solutions:
