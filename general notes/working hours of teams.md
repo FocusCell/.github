@@ -20,7 +20,7 @@
 # Clock in and out timing of team Deragon
 | Name | Position | First Shift | Second Shift | Skills |
 | --- | --- | --- | --- | --- |
-| Dua-Reveltek | Team Lead | 2:00 PM PKT | 7:00 PM PKT  | GDROID OPS/ Ajile Mangement |
+| Dua-Reveltek | Team Lead | 2:00 PM PKT | 7:00 PM PKT  | DROID OPS/ Agile Mangement |
 | Sohaib2580 | Assistant | 7:00 PM PKT  | ---------------------------- | Active Listening / Leadership |
 | Mu | Onboarding | 2:00 PM PKT  | 7:00 PM PKT  | Skill Development Plan / Self-Assessment |
 | asfandia27| | 0:00 PM PKT  | 0:00 PM PKT  | ----------------------------------------- |
