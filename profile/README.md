@@ -8,8 +8,8 @@ At Focus Cell, we believe in the power of collaboration, continuous learning, an
 ## Hive Mentality and Agile Methodology
 Embracing the Hive Mentality, we foster a culture of collaboration, cooperation, and collective intelligence. We encourage our members to leverage Agile Methodology, responding to change, delivering value incrementally, and fostering a culture of transparency and customer collaboration.
 
-## STAR Theory and Android Ops
-At Focus Cell, we utilize the groundbreaking STAR Theory, where our cells build entire hives, forming interconnected organs that can grow to encompass entire solar systems or galaxies. Furthermore, we adopt the innovative Android Ops framework, a futuristic SDLC framework designed for Product AI teams. Android Ops encompasses automation, networking, design, research, optimization, implementation, and delivery, empowering our members to build human-like AI products with exceptional quality and efficiency.
+## STAR Theory and ANDROID Ops
+At Focus Cell, we utilize the groundbreaking STAR Theory, where our cells build entire hives, forming interconnected organs that can grow to encompass entire solar systems or galaxies. Furthermore, we adopt the innovative ANDROID Ops framework, a futuristic SDLC framework designed for Product AI teams. ANDROID Ops encompasses automation, networking, design, research, optimization, implementation, and delivery, empowering our members to build human-like AI products with exceptional quality and efficiency.
 
 ## Focus Hive Inc: Empowering Remote & Distributed Teams
 Focus Cell is a proud part of Focus Hive Inc, a leading digital communications company. Focus Hive Inc specializes in assisting remote and distributed teams in maximizing their productivity through the integration of AI, tools, communication platforms, and project management frameworks. By leveraging cutting-edge technologies and innovative solutions, Focus Hive Inc enables teams to overcome geographical barriers, collaborate seamlessly, and achieve their goals effectively.
