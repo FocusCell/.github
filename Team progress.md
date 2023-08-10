@@ -5,5 +5,5 @@
 | Nebula    | 2 out of 3   | Moderate     | Humera only showed up but not team collaboration             |
 | Silk Corp | 3 out of 3   | High         | Aini and April present, steady progress, good collaboration, high energy |
 | Prime     | 1 out of 2   | High         | Shumaila present, payroll tasks handled                       |
-| Phoenix   | 2 out of 2   | High         | Aroofa and Aleem working diligently on private project        |
+| Phoenix   | 2 out of 2   | High         | Aroofa and Aleem working diligently on priv. project        |
 
